@@ -15,7 +15,7 @@ int main() {
 // i++;
 // cout<<i;
 // i++;
-// Syntax fro loop
+// Syntax for loop
 
 // for(initilization; conditon, updation;)
 // {

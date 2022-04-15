@@ -14,7 +14,7 @@ int main() {
 
 //    cout<<"The sum is c"<<c;
 //    cout<<"the Global c is "<<c;
-// ***********Literals***********
+//      ***********Literals***********
 // float d=34.4F;
 // long double e=34.4L;
  

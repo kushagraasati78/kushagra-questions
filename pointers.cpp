@@ -17,14 +17,15 @@ int main() {
 
    // Pointer to pointer
 
-   int**c=&b;
-   cout<<"the value of b is"<<&b<<endl;
-   cout<<"the address of b is"<<c<<endl;
-   cout<<"the value at address c is"<<*c<<endl;
-   cout<<"the value of address value at address c is "<<**c<<endl;
+//    int**c=&b;
+//    cout<<"the value of b is"<<&b<<endl;
+//    cout<<"the address of b is"<<c<<endl;
+//    cout<<"the value at address c is"<<*c<<endl;
+//    cout<<"the value of address value at address c is "<<**c<<endl;
 
-
-
+ int** c=&b;
+ cout<<"the value at the address of Pointer to pointer is "<<c<<endl;
+ cout<<"the address is "<<**c<<endl;
 
 
 
